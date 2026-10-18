@@ -36,8 +36,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/ruchitaagrahari2/AgriTrace.git
-cd AgriTrace
+git clone https://github.com/ruchitaagrahari2/AgriChain_Ruchita.git
+cd AgriChain_Ruchita
 npm install
 npm start
 
